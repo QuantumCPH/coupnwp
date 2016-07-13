@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="656d8fb0-9c99-4e5d-8e12-b2af62041c2e" name="Default" comment="" />
+    <ignored path="couponwp.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="couponwp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+              <folding>
+                <element signature="e#7#42#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content-home.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/content-home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#!!top" expanded="false" />
+                <element signature="n#div#5;n#!!top" expanded="false" />
+                <element signature="n#div#6;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="subscription.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/subscription.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+              <folding>
+                <element signature="e#7#49#0#PHP" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#script#0;n#div#1;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#2;n#form#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#3;n#form#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#!!top" expanded="false" />
+                <marker date="1466672823751" expanded="false" signature="4782:4827" ph="..." />
+                <marker date="1466672823751" expanded="true" signature="4959:5871" ph="..." />
+                <marker date="1466672823751" expanded="true" signature="5025:5115" ph="..." />
+                <marker date="1466672823751" expanded="true" signature="5179:5215" ph="..." />
+                <marker date="1466672823751" expanded="true" signature="8495:12335" ph="..." />
+                <marker date="1466672823751" expanded="true" signature="8600:10131" ph="..." />
+                <marker date="1466672823751" expanded="true" signature="8650:8906" ph="..." />
+                <marker date="1466672823751" expanded="true" signature="8956:9199" ph="..." />
+                <marker date="1466672823751" expanded="true" signature="9248:9506" ph="..." />
+                <marker date="1466672823751" expanded="true" signature="9555:9835" ph="..." />
+                <marker date="1466672823751" expanded="true" signature="9886:10103" ph="..." />
+                <marker date="1466672823751" expanded="true" signature="10184:12000" ph="..." />
+                <marker date="1466672823751" expanded="true" signature="10233:10491" ph="..." />
+                <marker date="1466672823751" expanded="true" signature="10540:10801" ph="..." />
+                <marker date="1466672823751" expanded="true" signature="10851:11352" ph="..." />
+                <marker date="1466672823751" expanded="true" signature="11003:11321" ph="..." />
+                <marker date="1466672823751" expanded="true" signature="11401:11671" ph="..." />
+                <marker date="1466672823751" expanded="true" signature="11721:11971" ph="..." />
+                <marker date="1466672823751" expanded="true" signature="12045:12291" ph="..." />
+                <marker date="1466672823751" expanded="true" signature="12125:12264" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="466" column="4" selection-start-line="466" selection-start-column="4" selection-end-line="466" selection-end-column="4" />
+              <folding>
+                <element signature="e#1003#1066#0#PHP" expanded="false" />
+                <element signature="e#1067#1197#0#PHP" expanded="false" />
+                <element signature="e#1199#3900#0#PHP" expanded="false" />
+                <element signature="e#1251#1658#0#PHP" expanded="false" />
+                <element signature="e#1659#3893#1#PHP" expanded="false" />
+                <element signature="e#1693#1963#0#PHP" expanded="false" />
+                <element signature="e#2156#2375#0#PHP" expanded="false" />
+                <element signature="e#2413#2491#0#PHP" expanded="false" />
+                <element signature="e#2493#2611#0#PHP" expanded="false" />
+                <element signature="e#2527#2609#0#PHP" expanded="false" />
+                <element signature="e#2615#2775#0#PHP" expanded="false" />
+                <element signature="e#2911#3055#0#PHP" expanded="false" />
+                <element signature="e#2931#3053#1#PHP" expanded="false" />
+                <element signature="e#3059#3168#0#PHP" expanded="false" />
+                <element signature="e#3170#3288#0#PHP" expanded="false" />
+                <element signature="e#3198#3286#0#PHP" expanded="false" />
+                <element signature="e#3292#3390#0#PHP" expanded="false" />
+                <element signature="e#3392#3538#0#PHP" expanded="false" />
+                <element signature="e#3427#3536#0#PHP" expanded="false" />
+                <element signature="e#3542#3674#0#PHP" expanded="false" />
+                <element signature="e#3983#4203#0#PHP" expanded="false" />
+                <element signature="n#twentysixteen_content_width#0;n#!!top" expanded="false" />
+                <element signature="e#4399#4548#0#PHP" expanded="false" />
+                <element signature="n#twentysixteen_widgets_init#0;n#!!top" expanded="false" />
+                <element signature="e#4590#4978#0#PHP" expanded="false" />
+                <element signature="e#4608#4976#1#PHP" expanded="false" />
+                <element signature="e#4982#5392#0#PHP" expanded="false" />
+                <element signature="e#5000#5390#1#PHP" expanded="false" />
+                <element signature="e#5396#5806#0#PHP" expanded="false" />
+                <element signature="e#5414#5804#1#PHP" expanded="false" />
+                <element signature="e#5871#7368#0#PHP" expanded="false" />
+                <element signature="e#5927#6151#0#PHP" expanded="false" />
+                <element signature="e#6152#7361#1#PHP" expanded="false" />
+                <element signature="e#6432#6584#0#PHP" expanded="false" />
+                <element signature="e#6752#6866#0#PHP" expanded="false" />
+                <element signature="e#7035#7147#0#PHP" expanded="false" />
+                <element signature="e#7150#7338#0#PHP" expanded="false" />
+                <element signature="e#7181#7334#0#PHP" expanded="false" />
+                <element signature="e#7196#7296#0#PHP" expanded="false" />
+                <element signature="e#7370#7524#0#PHP" expanded="false" />
+                <element signature="n#twentysixteen_javascript_detection#0;n#!!top" expanded="false" />
+                <element signature="e#7773#7844#0#PHP" expanded="false" />
+                <element signature="n#twentysixteen_scripts#0;n#!!top" expanded="false" />
+                <element signature="e#9395#9514#0#PHP" expanded="false" />
+                <element signature="e#9517#9734#0#PHP" expanded="false" />
+                <element signature="e#9872#10069#0#PHP" expanded="false" />
+                <element signature="e#9936#10067#0#PHP" expanded="false" />
+                <element signature="e#10135#10333#0#PHP" expanded="false" />
+                <element signature="n#twentysixteen_body_classes#0;n#!!top" expanded="false" />
+                <element signature="e#10470#10546#0#PHP" expanded="false" />
+                <element signature="e#10624#10682#0#PHP" expanded="false" />
+                <element signature="e#10749#10824#0#PHP" expanded="false" />
+                <element signature="e#10876#10927#0#PHP" expanded="false" />
+                <element signature="e#11008#11293#0#PHP" expanded="false" />
+                <element signature="n#twentysixteen_hex2rgb#0;n#!!top" expanded="false" />
+                <element signature="e#11370#11787#0#PHP" expanded="false" />
+                <element signature="e#11602#11787#0#PHP" expanded="false" />
+                <element signature="e#11760#11787#0#PHP" expanded="false" />
+                <element signature="e#11851#11898#0#PHP" expanded="false" />
+                <element signature="e#11961#11993#0#PHP" expanded="false" />
+                <element signature="e#12053#12486#0#PHP" expanded="false" />
+                <element signature="n#twentysixteen_content_image_sizes_attr#0;n#!!top" expanded="false" />
+                <element signature="e#12689#13057#0#PHP" expanded="false" />
+                <element signature="e#12811#13057#0#PHP" expanded="false" />
+                <element signature="e#13170#13592#0#PHP" expanded="false" />
+                <element signature="n#twentysixteen_post_thumbnail_sizes_attr#0;n#!!top" expanded="false" />
+                <element signature="e#13674#14020#0#PHP" expanded="false" />
+                <element signature="e#14142#14367#0#PHP" expanded="false" />
+                <element signature="n#twentysixteen_widget_tag_cloud_args#0;n#!!top" expanded="false" />
+                <element signature="n#getSubscriptionsList#0;n#!!top" expanded="false" />
+                <marker date="1466672813951" expanded="false" signature="14617:14840" ph="{...}" />
+                <marker date="1466672813951" expanded="false" signature="15086:15251" ph="{...}" />
+                <marker date="1466672813951" expanded="false" signature="15278:15311" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/content-home.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/home.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/subscription.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="couponwp.app" id="4b7b9038-55fc-47fb-837c-02ae7cae3c9b" name="CouPon WordPress" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/home/vagrant/Code/couponwp" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="$PROJECT_DIR$" selected_validation_type="LOCAL" web_path_to_validation_script="http://couponwp.app/" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Remote PHP 5.6" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="php.wordpress.base.configurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/twentysixteen" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/twentysixteen/js" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/twentysixteen/css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="CURRENT_VAGRANT" />
+    <option name="myConnectionId" value="" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="656d8fb0-9c99-4e5d-8e12-b2af62041c2e" name="Default" comment="" />
+      <created>1466499564700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1466499564700</updated>
+      <workItem from="1466499566822" duration="4838000" />
+      <workItem from="1466656894550" duration="14731000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19569000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="743" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24886191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6334405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>$PROJECT_DIR$</wordpressPath>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#42#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2024">
+          <caret line="92" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="130" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/js/vendor/jquery-1.11.2.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/css/all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/js/jquery.themepunch.tools.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="87" column="44" selection-start-line="87" selection-start-column="44" selection-end-line="87" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/guzzle/http/Guzzle/Http/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="208" column="20" selection-start-line="208" selection-start-column="20" selection-end-line="208" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding>
+            <element signature="n#footer#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="137" column="9" selection-start-line="137" selection-start-column="9" selection-end-line="137" selection-end-column="9" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="68" column="35" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <element signature="e#7#42#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/content-home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="1013" column="44" selection-start-line="1013" selection-start-column="42" selection-end-line="1013" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="466" column="4" selection-start-line="466" selection-start-column="4" selection-end-line="466" selection-end-column="4" />
+          <folding>
+            <element signature="e#1003#1066#0#PHP" expanded="false" />
+            <element signature="e#1067#1197#0#PHP" expanded="false" />
+            <element signature="e#1199#3900#0#PHP" expanded="false" />
+            <element signature="e#1251#1658#0#PHP" expanded="false" />
+            <element signature="e#1659#3893#1#PHP" expanded="false" />
+            <element signature="e#1693#1963#0#PHP" expanded="false" />
+            <element signature="e#2156#2375#0#PHP" expanded="false" />
+            <element signature="e#2413#2491#0#PHP" expanded="false" />
+            <element signature="e#2493#2611#0#PHP" expanded="false" />
+            <element signature="e#2527#2609#0#PHP" expanded="false" />
+            <element signature="e#2615#2775#0#PHP" expanded="false" />
+            <element signature="e#2911#3055#0#PHP" expanded="false" />
+            <element signature="e#2931#3053#1#PHP" expanded="false" />
+            <element signature="e#3059#3168#0#PHP" expanded="false" />
+            <element signature="e#3170#3288#0#PHP" expanded="false" />
+            <element signature="e#3198#3286#0#PHP" expanded="false" />
+            <element signature="e#3292#3390#0#PHP" expanded="false" />
+            <element signature="e#3392#3538#0#PHP" expanded="false" />
+            <element signature="e#3427#3536#0#PHP" expanded="false" />
+            <element signature="e#3542#3674#0#PHP" expanded="false" />
+            <element signature="e#3983#4203#0#PHP" expanded="false" />
+            <element signature="n#twentysixteen_content_width#0;n#!!top" expanded="false" />
+            <element signature="e#4399#4548#0#PHP" expanded="false" />
+            <element signature="n#twentysixteen_widgets_init#0;n#!!top" expanded="false" />
+            <element signature="e#4590#4978#0#PHP" expanded="false" />
+            <element signature="e#4608#4976#1#PHP" expanded="false" />
+            <element signature="e#4982#5392#0#PHP" expanded="false" />
+            <element signature="e#5000#5390#1#PHP" expanded="false" />
+            <element signature="e#5396#5806#0#PHP" expanded="false" />
+            <element signature="e#5414#5804#1#PHP" expanded="false" />
+            <element signature="e#5871#7368#0#PHP" expanded="false" />
+            <element signature="e#5927#6151#0#PHP" expanded="false" />
+            <element signature="e#6152#7361#1#PHP" expanded="false" />
+            <element signature="e#6432#6584#0#PHP" expanded="false" />
+            <element signature="e#6752#6866#0#PHP" expanded="false" />
+            <element signature="e#7035#7147#0#PHP" expanded="false" />
+            <element signature="e#7150#7338#0#PHP" expanded="false" />
+            <element signature="e#7181#7334#0#PHP" expanded="false" />
+            <element signature="e#7196#7296#0#PHP" expanded="false" />
+            <element signature="e#7370#7524#0#PHP" expanded="false" />
+            <element signature="n#twentysixteen_javascript_detection#0;n#!!top" expanded="false" />
+            <element signature="e#7773#7844#0#PHP" expanded="false" />
+            <element signature="n#twentysixteen_scripts#0;n#!!top" expanded="false" />
+            <element signature="e#9395#9514#0#PHP" expanded="false" />
+            <element signature="e#9517#9734#0#PHP" expanded="false" />
+            <element signature="e#9872#10069#0#PHP" expanded="false" />
+            <element signature="e#9936#10067#0#PHP" expanded="false" />
+            <element signature="e#10135#10333#0#PHP" expanded="false" />
+            <element signature="n#twentysixteen_body_classes#0;n#!!top" expanded="false" />
+            <element signature="e#10470#10546#0#PHP" expanded="false" />
+            <element signature="e#10624#10682#0#PHP" expanded="false" />
+            <element signature="e#10749#10824#0#PHP" expanded="false" />
+            <element signature="e#10876#10927#0#PHP" expanded="false" />
+            <element signature="e#11008#11293#0#PHP" expanded="false" />
+            <element signature="n#twentysixteen_hex2rgb#0;n#!!top" expanded="false" />
+            <element signature="e#11370#11787#0#PHP" expanded="false" />
+            <element signature="e#11602#11787#0#PHP" expanded="false" />
+            <element signature="e#11760#11787#0#PHP" expanded="false" />
+            <element signature="e#11851#11898#0#PHP" expanded="false" />
+            <element signature="e#11961#11993#0#PHP" expanded="false" />
+            <element signature="e#12053#12486#0#PHP" expanded="false" />
+            <element signature="n#twentysixteen_content_image_sizes_attr#0;n#!!top" expanded="false" />
+            <element signature="e#12689#13057#0#PHP" expanded="false" />
+            <element signature="e#12811#13057#0#PHP" expanded="false" />
+            <element signature="e#13170#13592#0#PHP" expanded="false" />
+            <element signature="n#twentysixteen_post_thumbnail_sizes_attr#0;n#!!top" expanded="false" />
+            <element signature="e#13674#14020#0#PHP" expanded="false" />
+            <element signature="e#14142#14367#0#PHP" expanded="false" />
+            <element signature="n#twentysixteen_widget_tag_cloud_args#0;n#!!top" expanded="false" />
+            <element signature="n#getSubscriptionsList#0;n#!!top" expanded="false" />
+            <marker date="1466672813951" expanded="false" signature="14617:14840" ph="{...}" />
+            <marker date="1466672813951" expanded="false" signature="15086:15251" ph="{...}" />
+            <marker date="1466672813951" expanded="false" signature="15278:15311" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/subscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding>
+            <element signature="e#7#49#0#PHP" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#div#1;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#2;n#form#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#3;n#form#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#!!top" expanded="false" />
+            <marker date="1466672823751" expanded="false" signature="4782:4827" ph="..." />
+            <marker date="1466672823751" expanded="true" signature="4959:5871" ph="..." />
+            <marker date="1466672823751" expanded="true" signature="5025:5115" ph="..." />
+            <marker date="1466672823751" expanded="true" signature="5179:5215" ph="..." />
+            <marker date="1466672823751" expanded="true" signature="8495:12335" ph="..." />
+            <marker date="1466672823751" expanded="true" signature="8600:10131" ph="..." />
+            <marker date="1466672823751" expanded="true" signature="8650:8906" ph="..." />
+            <marker date="1466672823751" expanded="true" signature="8956:9199" ph="..." />
+            <marker date="1466672823751" expanded="true" signature="9248:9506" ph="..." />
+            <marker date="1466672823751" expanded="true" signature="9555:9835" ph="..." />
+            <marker date="1466672823751" expanded="true" signature="9886:10103" ph="..." />
+            <marker date="1466672823751" expanded="true" signature="10184:12000" ph="..." />
+            <marker date="1466672823751" expanded="true" signature="10233:10491" ph="..." />
+            <marker date="1466672823751" expanded="true" signature="10540:10801" ph="..." />
+            <marker date="1466672823751" expanded="true" signature="10851:11352" ph="..." />
+            <marker date="1466672823751" expanded="true" signature="11003:11321" ph="..." />
+            <marker date="1466672823751" expanded="true" signature="11401:11671" ph="..." />
+            <marker date="1466672823751" expanded="true" signature="11721:11971" ph="..." />
+            <marker date="1466672823751" expanded="true" signature="12045:12291" ph="..." />
+            <marker date="1466672823751" expanded="true" signature="12125:12264" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

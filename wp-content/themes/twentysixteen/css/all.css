@@ -1,0 +1,232 @@
+html {
+	box-sizing: border-box;
+}
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+* {
+	max-height: 1000000px;
+}
+body {
+	margin: 0;
+	color: #333;
+	font: 19px/24px 'Helvetica', Arial, Helvetica, sans-serif;
+	background: #fff;
+	min-width: 320px;
+	overflow-y: scroll;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: none;
+}
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+	display: block;
+}
+img {
+	border-style: none;
+}
+a {
+	text-decoration: none;
+	color: #000;
+	outline: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+input, textarea, select {
+	font: 100% Arial, Helvetica, sans-serif;
+	vertical-align: middle;
+	color: #000;
+}
+textarea {
+	overflow: auto;
+	resize: vertical;
+	vertical-align: top;
+}
+form, fieldset {
+	margin: 0;
+	padding: 0;
+	border-style: none;
+}
+button::-moz-focus-inner, input::-moz-focus-inner {
+ padding:0;
+ border:0;
+}
+button, html input[type="button"], input[type="reset"], input[type="submit"] {
+	-webkit-appearance: button;
+	cursor: pointer;
+}
+input[type="search"] {
+	-webkit-appearance: none;
+}
+input[type="search"]::-webkit-search-cancel-button {
+-webkit-appearance: none;
+}
+input[type="search"]::-webkit-search-decoration {
+display:none;
+}
+q {
+	quotes: none;
+}
+q:before, q:after {
+	content: '';
+	content: none;
+}
+sub, sup {
+	font-size: 75%;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+sup {
+	top: -0.5em;
+}
+sub {
+	bottom: -0.25em;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+p {
+	margin: 0 0 1.2em;
+}
+#wrapper {
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+}
+#header {
+	padding: 30px 0 60px;
+}
+.logo a {
+	color: #1FBBA6;
+	font: 40px/50px 'Helvetica', Arial, Helvetica, sans-serif;
+}
+.logo a:hover, .logo a:focus {
+	text-decoration: none;
+	color: #1FBBA6;
+}
+.sidebar-menu {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.sidebar-menu li:first-child {
+	border-top: 1px solid #1FBBA6;
+}
+.sidebar-menu li {
+	border-bottom: 1px solid #1FBBA6;
+	padding: 5px 0 5px 20px;
+}
+.sidebar-menu li a {
+	font: 18px/26px 'Helvetica', Arial, Helvetica, sans-serif;
+	color: #1fbba6;
+}
+.sidebar-menu li a:hover, .sidebar-menu li a:focus {
+	text-decoration: none;
+	outline: none;
+}
+.main-content {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.main-content li h2 {
+	margin: 0;
+	font: 14px/20px 'Helvetica', Arial, Helvetica, sans-serif;
+	color: #000;
+	border: 1px solid #ccc;
+	width: 220px;
+	padding-left: 10px;
+}
+.text-block {
+	border: 1px solid #ccc;
+	padding: 10px 10px 0 10px;
+	overflow: hidden;
+}
+.text-block .text p {
+	margin: 0;
+}
+.text-img {
+	float: left;
+}
+.rates {
+	list-style: outside none none;
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
+}
+.rates > li {
+	display: inline-block;
+	margin: 0 !important;
+	text-align: center;
+	vertical-align: top;
+	width: 24%;
+}
+.rates li span {
+	color: #ccc;
+}
+.rates li .expo {
+	color: #1fbba6;
+}
+.main-content li {
+	margin: 0 0 20px;
+}
+.login-block {
+	border-radius: 0;
+	box-shadow: 0 0 10px 4px rgba(204, 204, 204, 0.75);
+	margin: 0 auto 10px;
+	width: 520px;
+	text-align:center;
+	padding-bottom: 30px;
+}
+.login-form .form-control {
+	box-shadow: none;
+}
+.login-form .form-control:focus {
+	border-color: transparent;
+	box-shadow: none;
+}
+.login-form {
+	margin: 0 auto 20px;
+	width: 70%;
+	padding-top: 60px;
+}
+.login-form .form-group {
+	overflow: hidden;
+}
+.login-form input {
+	background-image: url(../images/bg-input.png) !important;
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	border: 0 none;
+	font-size: 15px;
+	height: 35px;
+	padding-left: 15px !important;
+}
+.login-form .login-btn {
+	background-color: #1fbba6 !important;
+	height: 35px !important;
+	color: #fff;
+	margin-top: 10px !important;
+	width: 100%;
+}
+.login-form .login-btn:hover {
+	color:#fff;
+}
+.forget-pass {
+		color: #1fbba6;
+		outline:none;
+}
+.forget-pass:hover {
+			color: #1fbba6;
+			text-decoration:none;
+}
+.text {
+	float: left;
+	width: 90%;
+	font: 18px/26px 'Helvetica', Arial, Helvetica, sans-serif;
+}
+.add-icon {
+	float: right;
+}
