@@ -127,7 +127,7 @@ function twentysixteen_customize_register( $wp_customize ) {
 	) );
 
 	$wp_customize->add_control( 'color_scheme', array(
-		'label'    => __( 'Base Color Scheme', 'twentysixteen' ),
+		'label'    => __( 'Base Color Scheme', 'coupn' ),
 		'section'  => 'colors',
 		'type'     => 'select',
 		'choices'  => twentysixteen_get_color_scheme_choices(),
@@ -142,7 +142,7 @@ function twentysixteen_customize_register( $wp_customize ) {
 	) );
 
 	$wp_customize->add_control( new WP_Customize_Color_Control( $wp_customize, 'page_background_color', array(
-		'label'       => __( 'Page Background Color', 'twentysixteen' ),
+		'label'       => __( 'Page Background Color', 'coupn' ),
 		'section'     => 'colors',
 	) ) );
 
@@ -157,7 +157,7 @@ function twentysixteen_customize_register( $wp_customize ) {
 	) );
 
 	$wp_customize->add_control( new WP_Customize_Color_Control( $wp_customize, 'link_color', array(
-		'label'       => __( 'Link Color', 'twentysixteen' ),
+		'label'       => __( 'Link Color', 'coupn' ),
 		'section'     => 'colors',
 	) ) );
 
@@ -169,7 +169,7 @@ function twentysixteen_customize_register( $wp_customize ) {
 	) );
 
 	$wp_customize->add_control( new WP_Customize_Color_Control( $wp_customize, 'main_text_color', array(
-		'label'       => __( 'Main Text Color', 'twentysixteen' ),
+		'label'       => __( 'Main Text Color', 'coupn' ),
 		'section'     => 'colors',
 	) ) );
 
@@ -181,7 +181,7 @@ function twentysixteen_customize_register( $wp_customize ) {
 	) );
 
 	$wp_customize->add_control( new WP_Customize_Color_Control( $wp_customize, 'secondary_text_color', array(
-		'label'       => __( 'Secondary Text Color', 'twentysixteen' ),
+		'label'       => __( 'Secondary Text Color', 'coupn' ),
 		'section'     => 'colors',
 	) ) );
 }
@@ -250,7 +250,7 @@ function twentysixteen_get_color_schemes() {
 	 */
 	return apply_filters( 'twentysixteen_color_schemes', array(
 		'default' => array(
-			'label'  => __( 'Default', 'twentysixteen' ),
+			'label'  => __( 'Default', 'coupn' ),
 			'colors' => array(
 				'#1a1a1a',
 				'#ffffff',
@@ -260,7 +260,7 @@ function twentysixteen_get_color_schemes() {
 			),
 		),
 		'dark' => array(
-			'label'  => __( 'Dark', 'twentysixteen' ),
+			'label'  => __( 'Dark', 'coupn' ),
 			'colors' => array(
 				'#262626',
 				'#1a1a1a',
@@ -270,7 +270,7 @@ function twentysixteen_get_color_schemes() {
 			),
 		),
 		'gray' => array(
-			'label'  => __( 'Gray', 'twentysixteen' ),
+			'label'  => __( 'Gray', 'coupn' ),
 			'colors' => array(
 				'#616a73',
 				'#4d545c',
@@ -280,7 +280,7 @@ function twentysixteen_get_color_schemes() {
 			),
 		),
 		'red' => array(
-			'label'  => __( 'Red', 'twentysixteen' ),
+			'label'  => __( 'Red', 'coupn' ),
 			'colors' => array(
 				'#ffffff',
 				'#ff675f',
@@ -290,7 +290,7 @@ function twentysixteen_get_color_schemes() {
 			),
 		),
 		'yellow' => array(
-			'label'  => __( 'Yellow', 'twentysixteen' ),
+			'label'  => __( 'Yellow', 'coupn' ),
 			'colors' => array(
 				'#3b3721',
 				'#ffef8e',
@@ -409,7 +409,7 @@ function twentysixteen_color_scheme_css() {
 
 	$color_scheme_css = twentysixteen_get_color_scheme_css( $colors );
 
-	wp_add_inline_style( 'twentysixteen-style', $color_scheme_css );
+	wp_add_inline_style( 'coupn-style', $color_scheme_css );
 }
 add_action( 'wp_enqueue_scripts', 'twentysixteen_color_scheme_css' );
 
@@ -432,7 +432,7 @@ add_action( 'customize_controls_enqueue_scripts', 'twentysixteen_customize_contr
  * @since Twenty Sixteen 1.0
  */
 function twentysixteen_customize_preview_js() {
-	wp_enqueue_script( 'twentysixteen-customize-preview', get_template_directory_uri() . '/js/customize-preview.js', array( 'customize-preview' ), '20160412', true );
+	wp_enqueue_script( 'coupn-customize-preview', get_template_directory_uri() . '/js/customize-preview.js', array( 'customize-preview' ), '20160412', true );
 }
 add_action( 'customize_preview_init', 'twentysixteen_customize_preview_js' );
 
@@ -843,7 +843,7 @@ function twentysixteen_page_background_color_css() {
 		}
 	';
 
-	wp_add_inline_style( 'twentysixteen-style', sprintf( $css, $page_background_color ) );
+	wp_add_inline_style( 'coupn-style', sprintf( $css, $page_background_color ) );
 }
 add_action( 'wp_enqueue_scripts', 'twentysixteen_page_background_color_css', 11 );
 
@@ -939,7 +939,7 @@ function twentysixteen_link_color_css() {
 		}
 	';
 
-	wp_add_inline_style( 'twentysixteen-style', sprintf( $css, $link_color ) );
+	wp_add_inline_style( 'coupn-style', sprintf( $css, $link_color ) );
 }
 add_action( 'wp_enqueue_scripts', 'twentysixteen_link_color_css', 11 );
 
@@ -1086,7 +1086,7 @@ function twentysixteen_main_text_color_css() {
 		}
 	';
 
-	wp_add_inline_style( 'twentysixteen-style', sprintf( $css, $main_text_color, $border_color ) );
+	wp_add_inline_style( 'coupn-style', sprintf( $css, $main_text_color, $border_color ) );
 }
 add_action( 'wp_enqueue_scripts', 'twentysixteen_main_text_color_css', 11 );
 
@@ -1160,6 +1160,6 @@ function twentysixteen_secondary_text_color_css() {
 		}
 	';
 
-	wp_add_inline_style( 'twentysixteen-style', sprintf( $css, $secondary_text_color ) );
+	wp_add_inline_style( 'coupn-style', sprintf( $css, $secondary_text_color ) );
 }
 add_action( 'wp_enqueue_scripts', 'twentysixteen_secondary_text_color_css', 11 );

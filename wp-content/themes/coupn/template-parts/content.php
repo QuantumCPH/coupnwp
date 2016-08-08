@@ -1,6 +1,6 @@
 <?php
 /**
- * The template part for displaying single posts
+ * The template part for displaying content
  *
  * @package WordPress
  * @subpackage Twenty_Sixteen
@@ -10,7 +10,11 @@
 
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 	<header class="entry-header">
-		<?php the_title( '<h1 class="entry-title">', '</h1>' ); ?>
+		<?php if ( is_sticky() && is_home() && ! is_paged() ) : ?>
+			<span class="sticky-post"><?php _e( 'Featured', 'coupn' ); ?></span>
+		<?php endif; ?>
+
+		<?php the_title( sprintf( '<h2 class="entry-title"><a href="%s" rel="bookmark">', esc_url( get_permalink() ) ), '</a></h2>' ); ?>
 	</header><!-- .entry-header -->
 
 	<?php twentysixteen_excerpt(); ?>
@@ -19,20 +23,20 @@
 
 	<div class="entry-content">
 		<?php
-			the_content();
+			/* translators: %s: Name of current post */
+			the_content( sprintf(
+				__( 'Continue reading<span class="screen-reader-text"> "%s"</span>', 'coupn' ),
+				get_the_title()
+			) );
 
 			wp_link_pages( array(
-				'before'      => '<div class="page-links"><span class="page-links-title">' . __( 'Pages:', 'twentysixteen' ) . '</span>',
+				'before'      => '<div class="page-links"><span class="page-links-title">' . __( 'Pages:', 'coupn' ) . '</span>',
 				'after'       => '</div>',
 				'link_before' => '<span>',
 				'link_after'  => '</span>',
-				'pagelink'    => '<span class="screen-reader-text">' . __( 'Page', 'twentysixteen' ) . ' </span>%',
+				'pagelink'    => '<span class="screen-reader-text">' . __( 'Page', 'coupn' ) . ' </span>%',
 				'separator'   => '<span class="screen-reader-text">, </span>',
 			) );
-
-			if ( '' !== get_the_author_meta( 'description' ) ) {
-				get_template_part( 'template-parts/biography' );
-			}
 		?>
 	</div><!-- .entry-content -->
 
@@ -42,7 +46,7 @@
 			edit_post_link(
 				sprintf(
 					/* translators: %s: Name of current post */
-					__( 'Edit<span class="screen-reader-text"> "%s"</span>', 'twentysixteen' ),
+					__( 'Edit<span class="screen-reader-text"> "%s"</span>', 'coupn' ),
 					get_the_title()
 				),
 				'<span class="edit-link">',

@@ -2,7 +2,164 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="656d8fb0-9c99-4e5d-8e12-b2af62041c2e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/subscription.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/subscription.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/payment.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/404.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/404.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/archive.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/archive.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/comments.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/comments.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/content-home.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/content-home.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/all.css" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/css/all.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/animate.css" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/css/animate.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/css/bootstrap-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/bootstrap.css" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/editor-style.css" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/css/editor-style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/ie.css" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/css/ie.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/ie7.css" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/css/ie7.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/ie8.css" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/css/ie8.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/meanmenu.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/css/meanmenu.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/responsive.css" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/css/responsive.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/fonts/fontawesome-webfontd41d.eot" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/fonts/fontawesome-webfontd41d.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/fonts/fontawesome-webfonte0a5.eot" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/fonts/fontawesome-webfonte0a5.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/fonts/fontawesome-webfonte0a5.html" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/fonts/fontawesome-webfonte0a5.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/fonts/fontawesome-webfonte0a5.svg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/fonts/fontawesome-webfonte0a5.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/fonts/fontawesome-webfonte0a5.ttf" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/fonts/fontawesome-webfonte0a5.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/fonts/fontawesome-webfonte0a5.woff" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/fonts/fontawesome-webfonte0a5.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/fonts/glyphicons-halflings-regular.html" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/fonts/glyphicons-halflings-regular.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/fonts/glyphicons-halflings-regulard41d.eot" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/fonts/glyphicons-halflings-regulard41d.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/footer.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/functions.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/COPYING.txt" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/genericons/COPYING.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.eot" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/genericons/Genericons.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.svg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/genericons/Genericons.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.ttf" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/genericons/Genericons.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.woff" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/genericons/Genericons.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/LICENSE.txt" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/genericons/LICENSE.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/README.md" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/genericons/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/genericons.css" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/genericons/genericons.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/header.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/home.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/home.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/image.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/image.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/images/Screenshot_3.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/images/Screenshot_3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/images/Screenshot_4.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/images/Screenshot_4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/images/bg-input.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/images/bg-input.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/book.svg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/book.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/favicon.ico" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/favicon.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/glass.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/glass.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/bg-1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/bg-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/bg-skill.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/bg-skill.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/bg.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/bg2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/bg2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/bg3.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/bg3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/company.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/company.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/hikashop-logo.svg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/hikashop-logo.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/k2-logo.svg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/k2-logo.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/logo.svg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/logo.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/logo1.svg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/logo1.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/m1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/m1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/m2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/m2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/m3.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/m3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/partners.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/partners.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/roksprocket-logo.svg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/roksprocket-logo.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/sep.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/sep.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/shareholder.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/shareholder.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/shortcode-ultimate-logo.svg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/shortcode-ultimate-logo.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/testimonbg.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/testimonbg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/images/top_b.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/images/top_b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/s-user.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/s-user.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/settings.svg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/settings.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/umbrella.svg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/umbrella.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/img/video-ovarlay.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/img/video-ovarlay.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/inc/back-compat.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/inc/back-compat.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/inc/customizer.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/inc/customizer.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/inc/template-tags.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/inc/template-tags.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/bootstrap.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/js/bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/color-scheme-control.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/js/color-scheme-control.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/customize-preview.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/js/customize-preview.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/functions.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/js/functions.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/html5.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/js/html5.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/jquery.collapse.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/js/jquery.collapse.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/jquery.easing.1.3.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/js/jquery.easing.1.3.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/jquery.meanmenu.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/js/jquery.meanmenu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/jquery.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/js/jquery.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/keyboard-image-navigation.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/js/keyboard-image-navigation.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/main.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/js/main.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/parallax.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/js/parallax.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/js/skip-link-focus-fix.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/vendor/jquery-1.11.2.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/js/vendor/jquery-1.11.2.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/vendor/modernizr-2.8.3.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/js/vendor/modernizr-2.8.3.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/wow.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/js/wow.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/languages/twentysixteen.pot" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/languages/twentysixteen.pot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/arrow_left.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/arrow_left.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/arrow_left2.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/arrow_left2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/arrow_right.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/arrow_right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/arrow_right2.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/arrow_right2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/arrowleft.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/arrowleft.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/arrowright.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/arrowright.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/boxed_bgtile.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/boxed_bgtile.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/bullet.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/bullet.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/bullet_boxed.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/bullet_boxed.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/bullets.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/bullets.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/bullets2.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/bullets2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/coloredbg.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/coloredbg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/gridtile.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/gridtile.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/gridtile_3x3.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/gridtile_3x3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/gridtile_3x3_white.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/gridtile_3x3_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/gridtile_white.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/gridtile_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/large_left.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/large_left.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/large_right.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/large_right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/loader.gif" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/loader.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/navigdots.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/navigdots.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/navigdots_bgtile.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/navigdots_bgtile.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/shadow1.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/shadow1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/shadow2.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/shadow2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/shadow3.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/shadow3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/small_left.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/small_left.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/small_left_boxed.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/small_left_boxed.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/small_right.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/small_right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/small_right_boxed.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/small_right_boxed.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/assets/timer.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/assets/timer.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/css/settings.css" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/css/settings.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/font/revicons90c6.eot" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/font/revicons90c6.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/font/revicons90c6.svg" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/font/revicons90c6.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/font/revicons90c6.ttf" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/font/revicons90c6.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/font/revicons90c6.woff" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/font/revicons90c6.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/images/gradient/g30.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/images/gradient/g30.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/images/gradient/g40.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/images/gradient/g40.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/js/jquery.themepunch.revolution.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/js/jquery.themepunch.revolution.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/js/jquery.themepunch.tools.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/js/jquery.themepunch.tools.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/rs.home.js" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/rs.home.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/page.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/page.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/readme.txt" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/readme.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/rtl.css" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/rtl.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/screenshot.png" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/screenshot.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/search.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/search.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/searchform.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/searchform.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/sidebar-content-bottom.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/sidebar-content-bottom.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/sidebar.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/sidebar.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/single.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/single.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/subscription.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/subscription.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/biography.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/template-parts/biography.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-none.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/template-parts/content-none.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/template-parts/content-page.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-search.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/template-parts/content-search.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-single.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/template-parts/content-single.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content.php" afterPath="$PROJECT_DIR$/wp-content/themes/coupn/template-parts/content.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/couponwp.iml" afterPath="$PROJECT_DIR$/.idea/couponwp.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-admin/includes/update-core.php" afterPath="$PROJECT_DIR$/wp-admin/includes/update-core.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-config.php" afterPath="$PROJECT_DIR$/wp-config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-includes/class-wp-theme.php" afterPath="$PROJECT_DIR$/wp-includes/class-wp-theme.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-includes/default-constants.php" afterPath="$PROJECT_DIR$/wp-includes/default-constants.php" />
     </list>
     <ignored path="couponwp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -14,7 +171,10 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <pharPath>C:\Users\Shah\Code\couponwp\composer.phar</pharPath>
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -25,10 +185,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/home.php">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            <state relative-caret-position="189">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding>
                 <element signature="e#7#42#0#PHP" expanded="true" />
               </folding>
@@ -37,20 +197,20 @@
         </entry>
       </file>
       <file leaf-file-name="content-home.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/content-home.php">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/content-home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="8799">
+              <caret line="419" column="88" selection-start-line="419" selection-start-column="76" selection-end-line="419" selection-end-column="88" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="subscription.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/subscription.php">
+      <file leaf-file-name="subscription.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/subscription.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            <state relative-caret-position="5544">
+              <caret line="266" column="2" selection-start-line="266" selection-start-column="0" selection-end-line="2178" selection-end-column="8" />
               <folding>
                 <element signature="e#7#49#0#PHP" expanded="true" />
               </folding>
@@ -58,83 +218,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/functions.php">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1827">
-              <caret line="466" column="4" selection-start-line="466" selection-start-column="4" selection-end-line="466" selection-end-column="4" />
+            <state relative-caret-position="384">
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9261">
+              <caret line="465" column="1" selection-start-line="465" selection-start-column="1" selection-end-line="465" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="payment.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/payment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="116" column="66" selection-start-line="116" selection-start-column="66" selection-end-line="116" selection-end-column="66" />
               <folding>
-                <element signature="e#1003#1066#0#PHP" expanded="false" />
-                <element signature="e#1067#1197#0#PHP" expanded="false" />
-                <element signature="e#1199#3900#0#PHP" expanded="false" />
-                <element signature="e#1251#1658#0#PHP" expanded="false" />
-                <element signature="e#1659#3893#1#PHP" expanded="false" />
-                <element signature="e#1693#1963#0#PHP" expanded="false" />
-                <element signature="e#2156#2375#0#PHP" expanded="false" />
-                <element signature="e#2413#2491#0#PHP" expanded="false" />
-                <element signature="e#2493#2611#0#PHP" expanded="false" />
-                <element signature="e#2527#2609#0#PHP" expanded="false" />
-                <element signature="e#2615#2775#0#PHP" expanded="false" />
-                <element signature="e#2911#3055#0#PHP" expanded="false" />
-                <element signature="e#2931#3053#1#PHP" expanded="false" />
-                <element signature="e#3059#3168#0#PHP" expanded="false" />
-                <element signature="e#3170#3288#0#PHP" expanded="false" />
-                <element signature="e#3198#3286#0#PHP" expanded="false" />
-                <element signature="e#3292#3390#0#PHP" expanded="false" />
-                <element signature="e#3392#3538#0#PHP" expanded="false" />
-                <element signature="e#3427#3536#0#PHP" expanded="false" />
-                <element signature="e#3542#3674#0#PHP" expanded="false" />
-                <element signature="e#3983#4203#0#PHP" expanded="false" />
-                <element signature="n#twentysixteen_content_width#0;n#!!top" expanded="false" />
-                <element signature="e#4399#4548#0#PHP" expanded="false" />
-                <element signature="n#twentysixteen_widgets_init#0;n#!!top" expanded="false" />
-                <element signature="e#4590#4978#0#PHP" expanded="false" />
-                <element signature="e#4608#4976#1#PHP" expanded="false" />
-                <element signature="e#4982#5392#0#PHP" expanded="false" />
-                <element signature="e#5000#5390#1#PHP" expanded="false" />
-                <element signature="e#5396#5806#0#PHP" expanded="false" />
-                <element signature="e#5414#5804#1#PHP" expanded="false" />
-                <element signature="e#5871#7368#0#PHP" expanded="false" />
-                <element signature="e#5927#6151#0#PHP" expanded="false" />
-                <element signature="e#6152#7361#1#PHP" expanded="false" />
-                <element signature="e#6432#6584#0#PHP" expanded="false" />
-                <element signature="e#6752#6866#0#PHP" expanded="false" />
-                <element signature="e#7035#7147#0#PHP" expanded="false" />
-                <element signature="e#7150#7338#0#PHP" expanded="false" />
-                <element signature="e#7181#7334#0#PHP" expanded="false" />
-                <element signature="e#7196#7296#0#PHP" expanded="false" />
-                <element signature="e#7370#7524#0#PHP" expanded="false" />
-                <element signature="n#twentysixteen_javascript_detection#0;n#!!top" expanded="false" />
-                <element signature="e#7773#7844#0#PHP" expanded="false" />
-                <element signature="n#twentysixteen_scripts#0;n#!!top" expanded="false" />
-                <element signature="e#9395#9514#0#PHP" expanded="false" />
-                <element signature="e#9517#9734#0#PHP" expanded="false" />
-                <element signature="e#9872#10069#0#PHP" expanded="false" />
-                <element signature="e#9936#10067#0#PHP" expanded="false" />
-                <element signature="e#10135#10333#0#PHP" expanded="false" />
-                <element signature="n#twentysixteen_body_classes#0;n#!!top" expanded="false" />
-                <element signature="e#10470#10546#0#PHP" expanded="false" />
-                <element signature="e#10624#10682#0#PHP" expanded="false" />
-                <element signature="e#10749#10824#0#PHP" expanded="false" />
-                <element signature="e#10876#10927#0#PHP" expanded="false" />
-                <element signature="e#11008#11293#0#PHP" expanded="false" />
-                <element signature="n#twentysixteen_hex2rgb#0;n#!!top" expanded="false" />
-                <element signature="e#11370#11787#0#PHP" expanded="false" />
-                <element signature="e#11602#11787#0#PHP" expanded="false" />
-                <element signature="e#11760#11787#0#PHP" expanded="false" />
-                <element signature="e#11851#11898#0#PHP" expanded="false" />
-                <element signature="e#11961#11993#0#PHP" expanded="false" />
-                <element signature="e#12053#12486#0#PHP" expanded="false" />
-                <element signature="n#twentysixteen_content_image_sizes_attr#0;n#!!top" expanded="false" />
-                <element signature="e#12689#13057#0#PHP" expanded="false" />
-                <element signature="e#12811#13057#0#PHP" expanded="false" />
-                <element signature="e#13170#13592#0#PHP" expanded="false" />
-                <element signature="n#twentysixteen_post_thumbnail_sizes_attr#0;n#!!top" expanded="false" />
-                <element signature="e#13674#14020#0#PHP" expanded="false" />
-                <element signature="e#14142#14367#0#PHP" expanded="false" />
-                <element signature="n#twentysixteen_widget_tag_cloud_args#0;n#!!top" expanded="false" />
-                <element signature="n#getSubscriptionsList#0;n#!!top" expanded="false" />
+                <element signature="e#7#44#0#PHP" expanded="true" />
+                <element signature="e#56#425#0#PHP" expanded="true" />
+                <element signature="e#484#532#0#PHP" expanded="true" />
+                <element signature="e#4497#4505#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -147,7 +271,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wp-config.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/footer.php" />
@@ -155,6 +278,12 @@
         <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/home.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/subscription.php" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coupn/content-home.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coupn/subscription.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coupn/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coupn/payment.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -174,7 +303,17 @@
     </servers>
   </component>
   <component name="PhpWebServerValidation" path_to_validation_script="$PROJECT_DIR$" selected_validation_type="LOCAL" web_path_to_validation_script="http://couponwp.app/" />
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Remote PHP 5.6" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Remote PHP 5.6">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+    </include_path>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -206,10 +345,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
-        <subPane />
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="couponwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="couponwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="couponwp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -229,6 +385,9 @@
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
       <method />
     </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -258,6 +417,19 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -279,24 +451,33 @@
       <updated>1466499564700</updated>
       <workItem from="1466499566822" duration="4838000" />
       <workItem from="1466656894550" duration="14731000" />
-      <workItem from="1468388877834" duration="10000" />
+      <workItem from="1468388877834" duration="1316000" />
+      <workItem from="1468396742428" duration="1112000" />
+      <workItem from="1468401828397" duration="2069000" />
+      <workItem from="1468473080509" duration="594000" />
+      <workItem from="1468483169360" duration="598000" />
+      <workItem from="1468820211263" duration="6639000" />
+      <workItem from="1468828379176" duration="630000" />
+      <workItem from="1468839013578" duration="601000" />
+      <workItem from="1470634998995" duration="3606000" />
+      <workItem from="1470639499552" duration="166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19579000" />
+    <option name="totallyTimeSpent" value="36900000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24886191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2602118" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6334405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5189681" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -304,7 +485,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -330,17 +511,164 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/home.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        <state relative-caret-position="189">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding>
             <element signature="e#7#42#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/content-home.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/content-home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8757">
+          <caret line="417" column="84" selection-start-line="417" selection-start-column="84" selection-end-line="417" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/subscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3927">
+          <caret line="187" column="77" selection-start-line="187" selection-start-column="77" selection-end-line="187" selection-end-column="77" />
+          <folding>
+            <element signature="e#7#49#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9765">
+          <caret line="465" column="1" selection-start-line="465" selection-start-column="1" selection-end-line="465" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#44#0#PHP" expanded="true" />
+            <element signature="e#56#425#0#PHP" expanded="true" />
+            <element signature="e#484#532#0#PHP" expanded="true" />
+            <element signature="e#4497#4505#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="e#7#42#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/content-home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8757">
+          <caret line="417" column="84" selection-start-line="417" selection-start-column="84" selection-end-line="417" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/subscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3885">
+          <caret line="187" column="77" selection-start-line="187" selection-start-column="77" selection-end-line="187" selection-end-column="77" />
+          <folding>
+            <element signature="e#7#49#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9261">
+          <caret line="465" column="1" selection-start-line="465" selection-start-column="1" selection-end-line="465" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#44#0#PHP" expanded="true" />
+            <element signature="e#56#425#0#PHP" expanded="true" />
+            <element signature="e#484#532#0#PHP" expanded="true" />
+            <element signature="e#4497#4505#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#42#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/content-home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8757">
+          <caret line="417" column="84" selection-start-line="417" selection-start-column="84" selection-end-line="417" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/subscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3885">
+          <caret line="187" column="77" selection-start-line="187" selection-start-column="77" selection-end-line="187" selection-end-column="77" />
+          <folding>
+            <element signature="e#7#49#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9261">
+          <caret line="465" column="1" selection-start-line="465" selection-start-column="1" selection-end-line="465" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="89" column="33" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
+          <folding>
+            <element signature="e#7#44#0#PHP" expanded="true" />
+            <element signature="e#56#425#0#PHP" expanded="true" />
+            <element signature="e#484#532#0#PHP" expanded="true" />
+            <element signature="e#4497#4505#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="e#7#42#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/content-home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -348,7 +676,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/subscription.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/subscription.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -358,86 +686,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/functions.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1827">
-          <caret line="466" column="4" selection-start-line="466" selection-start-column="4" selection-end-line="466" selection-end-column="4" />
+        <state relative-caret-position="189">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding>
-            <element signature="e#1003#1066#0#PHP" expanded="false" />
-            <element signature="e#1067#1197#0#PHP" expanded="false" />
-            <element signature="e#1199#3900#0#PHP" expanded="false" />
-            <element signature="e#1251#1658#0#PHP" expanded="false" />
-            <element signature="e#1659#3893#1#PHP" expanded="false" />
-            <element signature="e#1693#1963#0#PHP" expanded="false" />
-            <element signature="e#2156#2375#0#PHP" expanded="false" />
-            <element signature="e#2413#2491#0#PHP" expanded="false" />
-            <element signature="e#2493#2611#0#PHP" expanded="false" />
-            <element signature="e#2527#2609#0#PHP" expanded="false" />
-            <element signature="e#2615#2775#0#PHP" expanded="false" />
-            <element signature="e#2911#3055#0#PHP" expanded="false" />
-            <element signature="e#2931#3053#1#PHP" expanded="false" />
-            <element signature="e#3059#3168#0#PHP" expanded="false" />
-            <element signature="e#3170#3288#0#PHP" expanded="false" />
-            <element signature="e#3198#3286#0#PHP" expanded="false" />
-            <element signature="e#3292#3390#0#PHP" expanded="false" />
-            <element signature="e#3392#3538#0#PHP" expanded="false" />
-            <element signature="e#3427#3536#0#PHP" expanded="false" />
-            <element signature="e#3542#3674#0#PHP" expanded="false" />
-            <element signature="e#3983#4203#0#PHP" expanded="false" />
-            <element signature="n#twentysixteen_content_width#0;n#!!top" expanded="false" />
-            <element signature="e#4399#4548#0#PHP" expanded="false" />
-            <element signature="n#twentysixteen_widgets_init#0;n#!!top" expanded="false" />
-            <element signature="e#4590#4978#0#PHP" expanded="false" />
-            <element signature="e#4608#4976#1#PHP" expanded="false" />
-            <element signature="e#4982#5392#0#PHP" expanded="false" />
-            <element signature="e#5000#5390#1#PHP" expanded="false" />
-            <element signature="e#5396#5806#0#PHP" expanded="false" />
-            <element signature="e#5414#5804#1#PHP" expanded="false" />
-            <element signature="e#5871#7368#0#PHP" expanded="false" />
-            <element signature="e#5927#6151#0#PHP" expanded="false" />
-            <element signature="e#6152#7361#1#PHP" expanded="false" />
-            <element signature="e#6432#6584#0#PHP" expanded="false" />
-            <element signature="e#6752#6866#0#PHP" expanded="false" />
-            <element signature="e#7035#7147#0#PHP" expanded="false" />
-            <element signature="e#7150#7338#0#PHP" expanded="false" />
-            <element signature="e#7181#7334#0#PHP" expanded="false" />
-            <element signature="e#7196#7296#0#PHP" expanded="false" />
-            <element signature="e#7370#7524#0#PHP" expanded="false" />
-            <element signature="n#twentysixteen_javascript_detection#0;n#!!top" expanded="false" />
-            <element signature="e#7773#7844#0#PHP" expanded="false" />
-            <element signature="n#twentysixteen_scripts#0;n#!!top" expanded="false" />
-            <element signature="e#9395#9514#0#PHP" expanded="false" />
-            <element signature="e#9517#9734#0#PHP" expanded="false" />
-            <element signature="e#9872#10069#0#PHP" expanded="false" />
-            <element signature="e#9936#10067#0#PHP" expanded="false" />
-            <element signature="e#10135#10333#0#PHP" expanded="false" />
-            <element signature="n#twentysixteen_body_classes#0;n#!!top" expanded="false" />
-            <element signature="e#10470#10546#0#PHP" expanded="false" />
-            <element signature="e#10624#10682#0#PHP" expanded="false" />
-            <element signature="e#10749#10824#0#PHP" expanded="false" />
-            <element signature="e#10876#10927#0#PHP" expanded="false" />
-            <element signature="e#11008#11293#0#PHP" expanded="false" />
-            <element signature="n#twentysixteen_hex2rgb#0;n#!!top" expanded="false" />
-            <element signature="e#11370#11787#0#PHP" expanded="false" />
-            <element signature="e#11602#11787#0#PHP" expanded="false" />
-            <element signature="e#11760#11787#0#PHP" expanded="false" />
-            <element signature="e#11851#11898#0#PHP" expanded="false" />
-            <element signature="e#11961#11993#0#PHP" expanded="false" />
-            <element signature="e#12053#12486#0#PHP" expanded="false" />
-            <element signature="n#twentysixteen_content_image_sizes_attr#0;n#!!top" expanded="false" />
-            <element signature="e#12689#13057#0#PHP" expanded="false" />
-            <element signature="e#12811#13057#0#PHP" expanded="false" />
-            <element signature="e#13170#13592#0#PHP" expanded="false" />
-            <element signature="n#twentysixteen_post_thumbnail_sizes_attr#0;n#!!top" expanded="false" />
-            <element signature="e#13674#14020#0#PHP" expanded="false" />
-            <element signature="e#14142#14367#0#PHP" expanded="false" />
-            <element signature="n#twentysixteen_widget_tag_cloud_args#0;n#!!top" expanded="false" />
-            <element signature="n#getSubscriptionsList#0;n#!!top" expanded="false" />
+            <element signature="e#7#42#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/home.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/content-home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/subscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#49#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="e#7#42#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/content-home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/subscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#49#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <element signature="e#7#42#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -447,45 +769,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/footer.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <element signature="e#7#42#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/content-home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/subscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1827">
+          <caret line="466" column="4" selection-start-line="466" selection-start-column="4" selection-end-line="466" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#42#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2024">
           <caret line="92" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/header.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="130" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/js/vendor/jquery-1.11.2.min.js">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/js/vendor/jquery-1.11.2.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/css/all.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/css/all.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/lib/rs-plugin/js/jquery.themepunch.tools.min.js">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/lib/rs-plugin/js/jquery.themepunch.tools.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="87" column="44" selection-start-line="87" selection-start-column="44" selection-end-line="87" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -497,14 +853,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/footer.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/header.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="137" column="9" selection-start-line="137" selection-start-column="9" selection-end-line="137" selection-end-column="9" />
@@ -518,24 +874,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-          <folding>
-            <element signature="e#7#42#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/content-home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_8.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
@@ -543,92 +881,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/functions.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1827">
-          <caret line="466" column="4" selection-start-line="466" selection-start-column="4" selection-end-line="466" selection-end-column="4" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9261">
+          <caret line="465" column="1" selection-start-line="465" selection-start-column="1" selection-end-line="465" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding>
-            <element signature="e#1003#1066#0#PHP" expanded="false" />
-            <element signature="e#1067#1197#0#PHP" expanded="false" />
-            <element signature="e#1199#3900#0#PHP" expanded="false" />
-            <element signature="e#1251#1658#0#PHP" expanded="false" />
-            <element signature="e#1659#3893#1#PHP" expanded="false" />
-            <element signature="e#1693#1963#0#PHP" expanded="false" />
-            <element signature="e#2156#2375#0#PHP" expanded="false" />
-            <element signature="e#2413#2491#0#PHP" expanded="false" />
-            <element signature="e#2493#2611#0#PHP" expanded="false" />
-            <element signature="e#2527#2609#0#PHP" expanded="false" />
-            <element signature="e#2615#2775#0#PHP" expanded="false" />
-            <element signature="e#2911#3055#0#PHP" expanded="false" />
-            <element signature="e#2931#3053#1#PHP" expanded="false" />
-            <element signature="e#3059#3168#0#PHP" expanded="false" />
-            <element signature="e#3170#3288#0#PHP" expanded="false" />
-            <element signature="e#3198#3286#0#PHP" expanded="false" />
-            <element signature="e#3292#3390#0#PHP" expanded="false" />
-            <element signature="e#3392#3538#0#PHP" expanded="false" />
-            <element signature="e#3427#3536#0#PHP" expanded="false" />
-            <element signature="e#3542#3674#0#PHP" expanded="false" />
-            <element signature="e#3983#4203#0#PHP" expanded="false" />
-            <element signature="n#twentysixteen_content_width#0;n#!!top" expanded="false" />
-            <element signature="e#4399#4548#0#PHP" expanded="false" />
-            <element signature="n#twentysixteen_widgets_init#0;n#!!top" expanded="false" />
-            <element signature="e#4590#4978#0#PHP" expanded="false" />
-            <element signature="e#4608#4976#1#PHP" expanded="false" />
-            <element signature="e#4982#5392#0#PHP" expanded="false" />
-            <element signature="e#5000#5390#1#PHP" expanded="false" />
-            <element signature="e#5396#5806#0#PHP" expanded="false" />
-            <element signature="e#5414#5804#1#PHP" expanded="false" />
-            <element signature="e#5871#7368#0#PHP" expanded="false" />
-            <element signature="e#5927#6151#0#PHP" expanded="false" />
-            <element signature="e#6152#7361#1#PHP" expanded="false" />
-            <element signature="e#6432#6584#0#PHP" expanded="false" />
-            <element signature="e#6752#6866#0#PHP" expanded="false" />
-            <element signature="e#7035#7147#0#PHP" expanded="false" />
-            <element signature="e#7150#7338#0#PHP" expanded="false" />
-            <element signature="e#7181#7334#0#PHP" expanded="false" />
-            <element signature="e#7196#7296#0#PHP" expanded="false" />
-            <element signature="e#7370#7524#0#PHP" expanded="false" />
-            <element signature="n#twentysixteen_javascript_detection#0;n#!!top" expanded="false" />
-            <element signature="e#7773#7844#0#PHP" expanded="false" />
-            <element signature="n#twentysixteen_scripts#0;n#!!top" expanded="false" />
-            <element signature="e#9395#9514#0#PHP" expanded="false" />
-            <element signature="e#9517#9734#0#PHP" expanded="false" />
-            <element signature="e#9872#10069#0#PHP" expanded="false" />
-            <element signature="e#9936#10067#0#PHP" expanded="false" />
-            <element signature="e#10135#10333#0#PHP" expanded="false" />
-            <element signature="n#twentysixteen_body_classes#0;n#!!top" expanded="false" />
-            <element signature="e#10470#10546#0#PHP" expanded="false" />
-            <element signature="e#10624#10682#0#PHP" expanded="false" />
-            <element signature="e#10749#10824#0#PHP" expanded="false" />
-            <element signature="e#10876#10927#0#PHP" expanded="false" />
-            <element signature="e#11008#11293#0#PHP" expanded="false" />
-            <element signature="n#twentysixteen_hex2rgb#0;n#!!top" expanded="false" />
-            <element signature="e#11370#11787#0#PHP" expanded="false" />
-            <element signature="e#11602#11787#0#PHP" expanded="false" />
-            <element signature="e#11760#11787#0#PHP" expanded="false" />
-            <element signature="e#11851#11898#0#PHP" expanded="false" />
-            <element signature="e#11961#11993#0#PHP" expanded="false" />
-            <element signature="e#12053#12486#0#PHP" expanded="false" />
-            <element signature="n#twentysixteen_content_image_sizes_attr#0;n#!!top" expanded="false" />
-            <element signature="e#12689#13057#0#PHP" expanded="false" />
-            <element signature="e#12811#13057#0#PHP" expanded="false" />
-            <element signature="e#13170#13592#0#PHP" expanded="false" />
-            <element signature="n#twentysixteen_post_thumbnail_sizes_attr#0;n#!!top" expanded="false" />
-            <element signature="e#13674#14020#0#PHP" expanded="false" />
-            <element signature="e#14142#14367#0#PHP" expanded="false" />
-            <element signature="n#twentysixteen_widget_tag_cloud_args#0;n#!!top" expanded="false" />
-            <element signature="n#getSubscriptionsList#0;n#!!top" expanded="false" />
+            <element signature="e#7#42#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/subscription.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/content-home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        <state relative-caret-position="8799">
+          <caret line="419" column="88" selection-start-line="419" selection-start-column="76" selection-end-line="419" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="116" column="66" selection-start-line="116" selection-start-column="66" selection-end-line="116" selection-end-column="66" />
+          <folding>
+            <element signature="e#7#44#0#PHP" expanded="true" />
+            <element signature="e#56#425#0#PHP" expanded="true" />
+            <element signature="e#484#532#0#PHP" expanded="true" />
+            <element signature="e#4497#4505#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coupn/subscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5544">
+          <caret line="266" column="2" selection-start-line="266" selection-start-column="0" selection-end-line="2178" selection-end-column="8" />
           <folding>
             <element signature="e#7#49#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>

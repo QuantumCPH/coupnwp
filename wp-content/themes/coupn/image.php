@@ -21,8 +21,8 @@ get_header(); ?>
 
 					<nav id="image-navigation" class="navigation image-navigation">
 						<div class="nav-links">
-							<div class="nav-previous"><?php previous_image_link( false, __( 'Previous Image', 'twentysixteen' ) ); ?></div>
-							<div class="nav-next"><?php next_image_link( false, __( 'Next Image', 'twentysixteen' ) ); ?></div>
+							<div class="nav-previous"><?php previous_image_link( false, __( 'Previous Image', 'coupn' ) ); ?></div>
+							<div class="nav-next"><?php next_image_link( false, __( 'Next Image', 'coupn' ) ); ?></div>
 						</div><!-- .nav-links -->
 					</nav><!-- .image-navigation -->
 
@@ -35,7 +35,7 @@ get_header(); ?>
 						<div class="entry-attachment">
 							<?php
 								/**
-								 * Filter the default twentysixteen image attachment size.
+								 * Filter the default coupn image attachment size.
 								 *
 								 * @since Twenty Sixteen 1.0
 								 *
@@ -53,11 +53,11 @@ get_header(); ?>
 						<?php
 							the_content();
 							wp_link_pages( array(
-								'before'      => '<div class="page-links"><span class="page-links-title">' . __( 'Pages:', 'twentysixteen' ) . '</span>',
+								'before'      => '<div class="page-links"><span class="page-links-title">' . __( 'Pages:', 'coupn' ) . '</span>',
 								'after'       => '</div>',
 								'link_before' => '<span>',
 								'link_after'  => '</span>',
-								'pagelink'    => '<span class="screen-reader-text">' . __( 'Page', 'twentysixteen' ) . ' </span>%',
+								'pagelink'    => '<span class="screen-reader-text">' . __( 'Page', 'coupn' ) . ' </span>%',
 								'separator'   => '<span class="screen-reader-text">, </span>',
 							) );
 						?>
@@ -70,7 +70,7 @@ get_header(); ?>
 							$metadata = wp_get_attachment_metadata();
 							if ( $metadata ) {
 								printf( '<span class="full-size-link"><span class="screen-reader-text">%1$s </span><a href="%2$s">%3$s &times; %4$s</a></span>',
-									esc_html_x( 'Full size', 'Used before full size attachment link.', 'twentysixteen' ),
+									esc_html_x( 'Full size', 'Used before full size attachment link.', 'coupn' ),
 									esc_url( wp_get_attachment_url() ),
 									absint( $metadata['width'] ),
 									absint( $metadata['height'] )
@@ -81,7 +81,7 @@ get_header(); ?>
 							edit_post_link(
 								sprintf(
 									/* translators: %s: Name of current post */
-									__( 'Edit<span class="screen-reader-text"> "%s"</span>', 'twentysixteen' ),
+									__( 'Edit<span class="screen-reader-text"> "%s"</span>', 'coupn' ),
 									get_the_title()
 								),
 								'<span class="edit-link">',
@@ -99,7 +99,7 @@ get_header(); ?>
 
 					// Parent post navigation.
 					the_post_navigation( array(
-						'prev_text' => _x( '<span class="meta-nav">Published in</span><span class="post-title">%title</span>', 'Parent post link', 'twentysixteen' ),
+						'prev_text' => _x( '<span class="meta-nav">Published in</span><span class="post-title">%title</span>', 'Parent post link', 'coupn' ),
 					) );
 				// End the loop.
 				endwhile;

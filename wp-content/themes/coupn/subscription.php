@@ -9,13 +9,12 @@
 <?php get_header(); ?>
 
 <div style="clear: both; height: 15em;"></div>
-
     <?php $subscription = getSingleSubscription( $_GET['id'] ); ?>
 
-<div class="container subScribe1">
+<div class="container subScribe1" style="background: white;">
 
         <script type="text/javascript">
-           
+
             (function($,W,D)
             {
                 var JQUERY4U = {};
@@ -33,53 +32,53 @@
                          */
 
                         //form validation rules
-                        $("#register-form").validate({
-                            rules: {
-                                firstname: "required",
-                                lastname: "required",
-                                username: {
-                                    required: true,
-                                    required: true,
-                                    remote: {url: "http://mallappbackend.zap-itsolutions.com/uservarification", type : "post" }
-                                },
-
-                                email: {
-                                    email: true,
-                                    required: true,
-                                    remote: { url: "http://mallappbackend.zap-itsolutions.com/uservarification", type : "post"}
-                                },
-
-                                password: {
-                                    required: true,
-                                    minlength: 5
-                                },
-                                cpassword: {
-                                    equalTo: "#password"
-                                },
-                                agree: "required"
-                            },
-                            messages: {
-                                firstname: "Please enter your firstname",
-                                lastname: "Please enter your lastname",
-                                password: {
-                                    required: "Please provide a password",
-                                    minlength: "Your password must be at least 5 characters long"
-                                },
-                                email: {
-                                    required: "This field is required",
-                                    email: "Please enter a valid email address",
-                                    remote: "Email already exists. Use another email"
-                                },
-                                username: {
-                                    required: "This field is required",
-                                    remote: "Username already exists. Use another username"
-                                },
-                                agree: "Please accept our policy"
-                            },
-                            submitHandler: function(form) {
-                                form.submit();
-                            }
-                        });
+//                        $("#register-form").validate({
+//                            rules: {
+//                                firstname: "required",
+//                                lastname: "required",
+//                                username: {
+//                                    required: true,
+//                                    required: true,
+//                                    remote: {url: "http://mallappbackend.zap-itsolutions.com/uservarification", type : "post" }
+//                                },
+//
+//                                email: {
+//                                    email: true,
+//                                    required: true,
+//                                    remote: { url: "http://mallappbackend.zap-itsolutions.com/uservarification", type : "post"}
+//                                },
+//
+//                                password: {
+//                                    required: true,
+//                                    minlength: 5
+//                                },
+//                                cpassword: {
+//                                    equalTo: "#password"
+//                                },
+//                                agree: "required"
+//                            },
+//                            messages: {
+//                                firstname: "Please enter your firstname",
+//                                lastname: "Please enter your lastname",
+//                                password: {
+//                                    required: "Please provide a password",
+//                                    minlength: "Your password must be at least 5 characters long"
+//                                },
+//                                email: {
+//                                    required: "This field is required",
+//                                    email: "Please enter a valid email address",
+//                                    remote: "Email already exists. Use another email"
+//                                },
+//                                username: {
+//                                    required: "This field is required",
+//                                    remote: "Username already exists. Use another username"
+//                                },
+//                                agree: "Please accept our policy"
+//                            },
+//                            submitHandler: function(form) {
+//                                form.submit();
+//                            }
+//                        });
                     }
                 };
 
@@ -185,12 +184,10 @@
             </div>
 
             <div class="col-md-7 col-xs-12">
-                <form role="form" method="post" action="<?=esc_url( admin_url('admin-post.php') )?>" id="register-form" novalidate="novalidate" autocomplete="off">
+
+                <form role="form" method="post" action="<?=home_url('payment')?>" id="register-form" novalidate="novalidate" autocomplete="off">
 
                     <input type="hidden" name="action" value="process_payment">
-                    <input style="display:none">
-                    <input type="text" style="display:none">
-                    <input type="password" style="display:none">
 
                     <input type="hidden" name="subscriptionId" value="<?= $packageId;  ?>" class="form-control" id="pID">
                     <input type="hidden" name="amount" value="<?=number_format($packageAmountWithVat,2,",",".")?>" class="form-control" id="pAmount">
@@ -237,8 +234,9 @@
                             <label for="country">Country</label>
 
                             <select name="country" class="form-control" id="country">
-                                <?php $countryArr = getCountryName( strtoupper( $subscription->Currency ) ); var_dump( $subscription->Currency );exit;?>
-                                <option value="<?=$countryArr['code']?>"><?=strtoupper( $countryArr['country'] ); ?></option>
+                                <option value="code">PK</option>
+<!--                                --><?php //$countryArr = getCountryName( strtoupper( $subscription->Currency ) ); ?>
+<!--                                <option value="--><?//=$countryArr['code']?><!--">--><?//=strtoupper( $countryArr['country'] ); ?><!--</option>-->
 
                             </select>
                         </div>
@@ -256,9 +254,7 @@
                     </div>
 
                     <div class="col-xs-12">
-                        <hr />
                         <div class="form-group">
-
                             <button type="submit" class="btn btn-default submitStandard">Register</button>
                         </div>
                     </div>
@@ -2185,5 +2181,5 @@
 
 
 
-<script type='text/javascript' src="http://mallappbackend.zap-itsolutions.com/global/scripts/jquery.validate.min.js"></script>
+<!--<script type='text/javascript' src="http://mallappbackend.zap-itsolutions.com/global/scripts/jquery.validate.min.js"></script>-->
 <?php get_footer(); ?>

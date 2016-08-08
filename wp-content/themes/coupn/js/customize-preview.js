@@ -3,12 +3,12 @@
  */
 
 ( function( $ ) {
-	var style = $( '#twentysixteen-color-scheme-css' ),
+	var style = $( '#coupn-color-scheme-css' ),
 		api = wp.customize;
 
 	if ( ! style.length ) {
-		style = $( 'head' ).append( '<style type="text/css" id="twentysixteen-color-scheme-css" />' )
-		                    .find( '#twentysixteen-color-scheme-css' );
+		style = $( 'head' ).append( '<style type="text/css" id="coupn-color-scheme-css" />' )
+		                    .find( '#coupn-color-scheme-css' );
 	}
 
 	// Site title.
