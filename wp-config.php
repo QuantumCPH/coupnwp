@@ -23,10 +23,10 @@
 define('DB_NAME', 'coupnwp');
 
 /** MySQL database username */
-define('DB_USER', 'homestead');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'secret');
+define('DB_PASSWORD', 'UtlK&@#as@!&12');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
