@@ -113,8 +113,8 @@
     ?>
 
     <FORM ACTION="https://payment.architrade.com/paymentweb/start.action" id="paymentform" name="paymentform" METHOD="POST" CHARSET="UTF-8">
-        <INPUT TYPE="hidden" NAME="accepturl" VALUE="coupnwp.app">
-        <INPUT TYPE="hidden" NAME="cancelurl" VALUE="coupnwp.app">
+        <INPUT TYPE="hidden" NAME="accepturl" VALUE="<?=home_url('/result')?>">
+        <INPUT TYPE="hidden" NAME="cancelurl" VALUE="<?=home_url('/result')?>">
 
 
         <INPUT TYPE="hidden" NAME="amount" VALUE="<?php echo 300000 ?>">
